@@ -1,1 +1,2 @@
-A generic base shell file for quickshell, doesn't work alone
+A simple, vibecoded notch for hyprland, doesn't work well at all
+
